@@ -14,7 +14,7 @@
 		<br><br>
 		<a href="/ControllerServlet1">MASTERLIST OF SUBJECTS</a>
 		<br><br>
-		<a href="/ControllerServlet2">MASTERLIST OF STUDENTS</a>
+		<a href="/ControllerServlet2">MASTERLIST OF TEACHERS</a>
 		<br><br>
 		<a href="/ControllerServlet3">MASTERLIST OF ALL CLASSES</a>
 		<br><br>
